@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/pantryfind/static/css/main.5e57d65e.css",
+    "main.js": "/pantryfind/static/js/main.b6bc45d1.js",
+    "static/js/787.df2a6876.chunk.js": "/pantryfind/static/js/787.df2a6876.chunk.js",
+    "static/media/fruits-main.png": "/pantryfind/static/media/fruits-main.53c340c9720c67bcd281.png",
+    "static/media/asianmeatloaf.jpg": "/pantryfind/static/media/asianmeatloaf.1357fdd96a715300e842.jpg",
+    "static/media/miso-chick.jpg": "/pantryfind/static/media/miso-chick.107a0c2bb5f041e28531.jpg",
+    "static/media/steak-car.jpg": "/pantryfind/static/media/steak-car.e0af0819716ff6087fcd.jpg",
+    "static/media/balls-rice.jpg": "/pantryfind/static/media/balls-rice.a2d709b2183aade2837a.jpg",
+    "static/media/fried-chick.jpg": "/pantryfind/static/media/fried-chick.9e61d29af29730e1d6e4.jpg",
+    "static/media/salmon-mush.jpg": "/pantryfind/static/media/salmon-mush.9ca622d54fc6de319dc3.jpg",
+    "static/media/chick-mush.jpg": "/pantryfind/static/media/chick-mush.056048a244b0e5d897e0.jpg",
+    "static/media/chick-spin.jpg": "/pantryfind/static/media/chick-spin.d3ee0873d6d4b5cdd7ae.jpg",
+    "static/media/steak-bro.jpg": "/pantryfind/static/media/steak-bro.f0dbc317a3c9bb9eafb1.jpg",
+    "static/media/miso-mash.jpg": "/pantryfind/static/media/miso-mash.52f9b661a4ba19708307.jpg",
+    "static/media/burger.jpg": "/pantryfind/static/media/burger.34857b406653dd9be4c2.jpg",
+    "static/media/til-asp-pot.jpg": "/pantryfind/static/media/til-asp-pot.46672c20b54fbc7c2abd.jpg",
+    "static/media/miso-salmon.jpg": "/pantryfind/static/media/miso-salmon.48e84daf32b3d9904257.jpg",
+    "static/media/balls-pasta.jpg": "/pantryfind/static/media/balls-pasta.f3c63f7b2537c8d6b0c7.jpg",
+    "static/media/pesto.jpg": "/pantryfind/static/media/pesto.cc430c3a890644e11f6e.jpg",
+    "static/media/steak-asp.jpg": "/pantryfind/static/media/steak-asp.cf724b97a78dc3b3161f.jpg",
+    "static/media/grilled-tilapia.jpg": "/pantryfind/static/media/grilled-tilapia.55580dbb3cdbf784b30c.jpg",
+    "static/media/instant-pot-salmon.jpg": "/pantryfind/static/media/instant-pot-salmon.c987a536bee0a6545bf6.jpg",
+    "static/media/chickenbroc.jpg": "/pantryfind/static/media/chickenbroc.24c77acc1e34c7e7cd1f.jpg",
+    "static/media/til-bro-rice.jpg": "/pantryfind/static/media/til-bro-rice.93a3135c0542b344963a.jpg",
+    "static/media/black-arrow.png": "/pantryfind/static/media/black-arrow.22500f9a07b8c80a1119.png",
+    "static/media/logo.svg": "/pantryfind/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pantryfind/index.html",
+    "main.5e57d65e.css.map": "/pantryfind/static/css/main.5e57d65e.css.map",
+    "main.b6bc45d1.js.map": "/pantryfind/static/js/main.b6bc45d1.js.map",
+    "787.df2a6876.chunk.js.map": "/pantryfind/static/js/787.df2a6876.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e57d65e.css",
+    "static/js/main.b6bc45d1.js"
+  ]
+}
